@@ -1,4 +1,4 @@
-# class12-csproject
+# csproject101
 **PROJECT TITLE:**
 
 Inventory Management system + order placing mechanism for a complete Online Market Management System
